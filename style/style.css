@@ -1,0 +1,9 @@
+body {
+  background: #ff6e7f;
+  background: -webkit-linear-gradient(to right, #bfe9ff, #ff6e7f);
+  background: linear-gradient(to right, #bfe9ff, #ff6e7f);
+}
+
+h1 {
+  text-align: center;
+}
