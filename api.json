@@ -1,0 +1,38 @@
+[
+  {
+    "precio": 500,
+    "id": 1,
+    "title": "Café",
+    "thumbnailUrl": "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?cs=srgb&dl=pexels-igor-haritanovich-1695052.jpg&fm=jpg"
+  },
+  {
+    "precio": 1200,
+    "id": 2,
+    "title": "Pizza",
+    "thumbnailUrl": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?cs=srgb&dl=pexels-muffin-creatives-1653877.jpg&fm=jpg"
+  },
+  {
+    "precio": 200,
+    "id": 3,
+    "title": "Agua",
+    "thumbnailUrl": "https://images.pexels.com/photos/593099/pexels-photo-593099.jpeg?cs=srgb&dl=pexels-francesco-paggiaro-593099.jpg&fm=jpg"
+  },
+  {
+    "precio": 150,
+    "id": 4,
+    "title": "Sandía",
+    "thumbnailUrl": "https://images.pexels.com/photos/2403850/pexels-photo-2403850.jpeg?cs=srgb&dl=pexels-elaine-bernadine-castro-2403850.jpg&fm=jpg"
+  },
+  {
+    "precio": 350,
+    "id": 5,
+    "title": "Ensalada de Fruta",
+    "thumbnailUrl": "https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?cs=srgb&dl=pexels-trang-doan-1132047.jpg&fm=jpg"
+  },
+  {
+    "precio": 400,
+    "id": 6,
+    "title": "Frutilla",
+    "thumbnailUrl": "https://images.pexels.com/photos/70746/strawberries-red-fruit-royalty-free-70746.jpeg?cs=srgb&dl=pexels-pixabay-70746.jpg&fm=jpg"
+  }
+]
